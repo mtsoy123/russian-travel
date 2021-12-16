@@ -33,10 +33,10 @@
 @import url(../blocks/place/__url-heading/place__url-heading.css);
 @import url(../blocks/place/__link/place__link.css);
 @import url(../blocks/place/__paragraph/place__paragraph.css);
+@import url(../blocks/place/__paragraphs/place__paragraphs.css);
 @import url(../blocks/place/__image/place__image.css);
 @import url(../blocks/place/__header/place__header.css);
 @import url(../blocks/place/__content/place__content.css);
-@import url(../blocks/place/__paragraphs/place__paragraphs.css);
 
 @import url(../blocks/cover/cover.css);
 @import url(../blocks/cover/subtitle/cover__subtitle.css);
