@@ -8,4 +8,25 @@
   color: #FFFFFF;
   max-width: 690px;
   margin-bottom: 40px;
+
+}
+
+@media screen and (max-width: 928px) {
+  .intro__title {
+    padding-left: 24px;
+  }
+}
+
+@media screen and (max-width: 768px) {
+  .intro__title {
+    padding-left: 24px;
+    padding-right: 24px;
+  }
+}
+
+@media screen and (max-width: 425px) {
+  .intro__title {
+    padding-left: 16px;
+    padding-right: 16px;
+  }
 }
