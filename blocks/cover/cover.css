@@ -1,0 +1,11 @@
+.cover {
+  position: relative;
+  padding-bottom: 88px;
+  align-self: normal;
+}
+
+@media screen and (max-width: 767px) {
+  .cover {
+    padding-bottom: 64px;
+  }
+}
