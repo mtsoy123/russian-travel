@@ -13,4 +13,5 @@
 * CSS3
 
 **GitHub Pages**
-*[Ссылка на GitHub Pages](https://mtsoy123.github.io/russian-travel/index.html)
+
+[Ссылка на GitHub Pages](https://mtsoy123.github.io/russian-travel/index.html)
