@@ -3,3 +3,10 @@
   height: auto;
   width: 100%;
 }
+
+@media screen and (max-width: 662px) {
+  .place__image {
+    max-width: 484px;
+    margin: 0 auto;
+  }
+}
