@@ -3,23 +3,3 @@
   padding-left: 0;
   width: fit-content;
 }
-
-@media screen and (max-width: 928px) {
-  .intro__list {
-    padding-left: 24px;
-  }
-}
-
-@media screen and (max-width: 768px) {
-  .intro__list {
-    padding-left: 24px;
-    padding-right: 24px;
-  }
-}
-
-@media screen and (max-width: 425px) {
-  .intro__list {
-    padding-left: 16px;
-    padding-right: 16px;
-  }
-}
