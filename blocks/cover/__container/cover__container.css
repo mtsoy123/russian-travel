@@ -11,6 +11,20 @@
   position: relative;
 }
 
+@media screen and (max-width: 1279px) {
+  .cover__container {
+    min-height: 640px;
+
+  }
+}
+
+@media screen and (max-width: 1023px) {
+  .cover__container {
+    min-height: 480px;
+
+  }
+}
+
 @media screen and (max-width: 767px) {
   .cover__container {
     min-height: 200px;

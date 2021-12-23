@@ -1,5 +1,5 @@
-.footer__link {
-  font-family: Inter;
+.footer__nav-item {
+  font-family: 'Inter', 'Arial', 'Helvetica', sans-serif;
   font-style: normal;
   font-weight: normal;
   font-size: 16px;
@@ -10,12 +10,12 @@
   display: block;
 }
 
-.footer__link-link:last-child {
+.footer__nav-item:last-child {
   margin-right: 0;
 }
 
 @media screen and (max-width:767px) {
-  .footer__link {
+  .footer__nav-item {
     font-size: 24px;
     line-height: 24px;
     margin-bottom: 32px;
