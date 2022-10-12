@@ -1,12 +1,12 @@
-# Проект: Путешествие по России
+# Project: Russian Travel
 
-## Ссылка
+## Link
 https://russian-travel-one.vercel.app
 
-## О проекте
-Проект о путешествии по России. Страница рассказывает о непопулярных местах для туризма и о красотах России. 
-Учебный проект, в котором на практике поработал с версткой и figma. Проект полностью адаптивен, файлы организованы по БЭМ, в верстке использовал HTML, CSS
+## About Project
+A project about traveling in Russia. The page tells about unpopular places for tourism and about the beauty of Russia.
+A training project in which I worked with HTML/CSS and figma in practice. The project is fully adaptive, the files are organized by BEM, used HTML, CSS
 
-## Технологии
+## Tech Stack
 * HTML5
 * CSS3
